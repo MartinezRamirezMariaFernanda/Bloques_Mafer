@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Codigo\EmpezarPartida.cs">
+    <Files>
+      <File FileName="Assets\Codigo\EmpezarPartida.cs" Line="3" Column="1" />
+      <File FileName="Assets\Codigo\ElementoInteractivo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Codigo\Barra.cs" Line="1" Column="1" />
+      <File FileName="Assets\Codigo\SonidosPelota.cs" Line="1" Column="1" />
+      <File FileName="Assets\Codigo\BotonSalir.cs" Line="1" Column="1" />
+      <File FileName="Assets\Codigo\Bloque.cs" Line="1" Column="1" />
+      <File FileName="Assets\Codigo\Suelo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Codigo\Vidas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Codigo\Puntos.cs" Line="1" Column="1" />
+      <File FileName="Assets\Codigo\SiguienteNivel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Codigo\SonidosFinPartida.cs" Line="1" Column="1" />
+      <File FileName="Assets\Codigo\SonidoError.cs" Line="1" Column="1" />
+      <File FileName="Assets\Codigo\Pelota.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

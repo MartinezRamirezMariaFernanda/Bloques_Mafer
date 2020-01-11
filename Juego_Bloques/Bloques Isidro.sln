@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{919141D9-F6F8-D0EB-6DCC-255AC46210E0}") = "Bloques Isidro", "Assembly-CSharp.csproj", "{02373BE4-6E68-6A2A-5BAC-FB0A61F9EBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02373BE4-6E68-6A2A-5BAC-FB0A61F9EBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02373BE4-6E68-6A2A-5BAC-FB0A61F9EBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02373BE4-6E68-6A2A-5BAC-FB0A61F9EBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02373BE4-6E68-6A2A-5BAC-FB0A61F9EBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
